@@ -1,5 +1,5 @@
 #!/usr/bin/python
-"""This script runs CRUD commands to SQL Server via pyodbc"""
+"""This script runs CRUD commands via SQL Server via pyodbc"""
 
 #Create Python apps using SQL Server on Windows
 #https://www.microsoft.com/en-us/sql-server/developer-get-started/python/windows/step/2.html
